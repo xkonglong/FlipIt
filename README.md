@@ -1,3 +1,9 @@
+fork的项目, 主要修改如下:
+
+* .NET Framework 4.8 ==>  .NET Framework 4.0
+*  设置界面改为中文,添加快捷键
+* 屏幕添加了一个ico图标
+
 # FlipIt
 
 Flip Clock Screensaver. Inspired by [Fliqlo](http://fliqlo.com/). Fliqlo on Windows stopped working with a recent (Dec 2015?) Flash update which prompted this project. This project does NOT use Flash.
